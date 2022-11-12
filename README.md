@@ -1,6 +1,5 @@
-# Angular - Angular CLI Install
+![angular](https://user-images.githubusercontent.com/33417377/201498665-814d616c-d53e-4dde-974f-bf2d384aac8c.png)
 
-![angular](https://user-images.githubusercontent.com/33417377/201498603-0da5b781-8838-4090-94f0-2ee2c72e531b.png)
 
 ## Check npm is installed (Node Package Manager): 
 ````
