@@ -1,16 +1,16 @@
-# Install-Angular-CLI using a Terminal command line. Use VS Code (recommended).
+# Install Angular CLI from Zero to Angular Heroe !
 
 ## Check npm is installed (Node Package Manager): 
 ````
 npm --version
 ````
 
-## Install Angular CLI 
+## Install Angular CLI from StackBlitz Terminal : 
 ````
 npm install @angular/cli
 ````
 
-## Install Angular CLI (If needed globally) 
+## (If using VSCode) Install globally Angular CLI 
 ````
 npm install -g @angular/cli
 ````
