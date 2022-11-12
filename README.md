@@ -1,3 +1,7 @@
 # Install-Angular-CLI
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-pamssb)
+## Check npm is installed (Node Package Manager): 
+npm --version
+
+## Install Angular CLI 
+npm install -g @angular/cli
