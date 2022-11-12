@@ -15,9 +15,4 @@ npm --version
 npm install @angular/cli
 ````
 
-## (If using VSCode) Install Angular CLI globally
-````
-npm install -g @angular/cli
-````
-
 
